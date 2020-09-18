@@ -11,6 +11,14 @@
     <br> 
 </p>
 
+## 👀 Screenshot of the app
+
+<p align="center">
+ <a href="" rel="noopener">
+<img width=50% height=auto src="./images/appscreenshotv1.png"></a>
+</p>
+
+
 
 ## 🧐 About <a name = "about"></a>
 
@@ -25,7 +33,4 @@ All informations are displayed in metric system.
 
 Javascript
 
-## 👀 Screenshot of the app
-
-<img width=50% height=auto src="./images/appscreenshotv1.png" alt="Project logo"></a>
 
