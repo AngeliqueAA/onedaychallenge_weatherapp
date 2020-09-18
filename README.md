@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="" rel="noopener">
-<img width=50% height=auto src="./images/appscreenshotv1.png"></a>
+<img width=50% height=auto src="https://github.com/AngeliqueAA/onedaychallenge_weatherapp/blob/master/images/appscreenshotv1.PNG"></a>
 </p>
 
 
