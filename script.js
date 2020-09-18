@@ -71,6 +71,6 @@ let textAdvice = document.querySelector('#textAdvice');
     }
 
     else{
-        textAdvice.textContent='Brrr ! Mettez vos vêtements les plus chauds pour affrontez le froid ! Une fois rentré chez vous, une bonne boisson chaude vous fera le plus grand bien ! ';  
+        textAdvice.textContent='Brrr ! Mettez vos vêtements les plus chauds pour affronter le froid ! Une fois rentré chez vous, une bonne boisson chaude vous fera le plus grand bien ! ';  
     }
 }
