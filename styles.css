@@ -1,0 +1,92 @@
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.detail {
+    font-weight: bold;
+}
+
+
+.newsletter {
+    padding: 50px 0;
+    background: #3D4C5B;
+    }
+    
+    .newsletter .content {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; }
+    .newsletter .content h2 {
+    color: white;
+    margin-bottom: 30px; 
+    font-size: 30px;
+}
+    .newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius:0;
+    }
+    .newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+    }
+    .newsletter .content .btn {
+    min-height: 50px; 
+    border-radius:0;
+    background: #243c4f;
+    color: #fff;
+    font-weight:600;
+    }
+
+    .card img {
+        width: 50px;
+        padding-top: 20px;
+    }
+
+.card-text {
+    font-size: 40px;
+    font-weight: bold;
+}
+    .container {
+        padding: 50px;
+        display: flex;
+        flex-direction: row;
+        
+    }
+
+    .card {
+        margin-left: 30px;
+        width: auto;
+    }
+
+
+.imgAndText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#btnCheck:hover {
+
+font-size: larger;
+}
+
+.advice {
+   background:whitesmoke; 
+   color: #3D4C5B;
+   padding: 30px;
+}
+
+.advice h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+#textAdvice {
+    letter-spacing: 2px;
+    font-size: 1.1em;
+}
